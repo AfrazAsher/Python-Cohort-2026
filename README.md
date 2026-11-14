@@ -7,8 +7,8 @@ Welcome! This repository holds everything for our Python course: notes, assignme
 ```text
 python-course/
 ├── README.md                      ← you are here (course roadmap)
-├── 00_Developer_Tools_Guide.md    ← Git, GitHub, pip, virtual environments
 ├── Python_Course_Notes/           ← the 8 topic notebooks (study these!)
+│   └── 00_Developer_Tools_Guide.md    ← Git, GitHub, pip, virtual environments
 ├── Assignments/
 │   ├── Assignment_Descriptions/   ← Python_Assignment_1 ... 6
 │   └── Assignment_Solutions/      ← answer keys (instructor)
@@ -28,7 +28,7 @@ python-course/
 4. Build the guided projects in `Projects/Project_Descriptions/`.
 5. Commit your work to **your own** GitHub repository regularly.
 
-New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](00_Developer_Tools_Guide.md).
+New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](Python_Course_Notes/00_Developer_Tools_Guide.md).
 
 ---
 
@@ -116,7 +116,7 @@ Workbooks live in `Projects/Project_Descriptions/`.
 - [x] Workbook 2: first guided projects
 - [x] Workbook 3: `*args` / `**kwargs`, lambda, recursion, exceptions, file handling
 - [x] **Workbook 4**, Project 1: Library, Part 1 and Part 2
-- [ ] **Workbook 4**, Project 2: PySafe v2 (bank accounts)
+- [x] **Workbook 4**, Project 2: PySafe v2 (bank accounts)
 - [ ] **Workbook 4**, Project 3: Text Battle Arena
 
 ## 📝 Assignments and quizzes
