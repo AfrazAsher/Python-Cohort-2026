@@ -34,9 +34,10 @@ New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](
 
 ## 🗺️ Course roadmap
 
-✅ = covered in class   ⬜ = coming up
+✅ = covered in class ⬜ = coming up
 
 ### Phase 1: Foundations
+
 - [x] Orientation, how Python works, `print()` and comments
 - [x] Variables, data types, `input()` and type conversion
 - [x] Operators and numbers
@@ -50,6 +51,7 @@ New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](
 📖 Notes: [`01_Python_Basics_and_Control_Flow`](Python_Course_Notes/01_Python_Basics_and_Control_Flow.ipynb)
 
 ### Phase 2: Data structures
+
 - [x] Lists and list comprehensions
 - [x] Strings and f-strings
 - [x] Tuples and unpacking
@@ -59,6 +61,7 @@ New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](
 📖 Notes: [`02_Lists_Strings_Tuples`](Python_Course_Notes/02_Lists_Strings_Tuples.ipynb) · [`03_Dictionaries_and_Sets`](Python_Course_Notes/03_Dictionaries_and_Sets.ipynb)
 
 ### Phase 3: Functions, files and errors
+
 - [x] Functions: parameters, `return`, default arguments, scope
 - [x] `*args` and `**kwargs`
 - [x] Lambda functions
@@ -69,6 +72,7 @@ New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](
 📖 Notes: [`04_Functions`](Python_Course_Notes/04_Functions.ipynb) · [`05_Files_and_Exceptions`](Python_Course_Notes/05_Files_and_Exceptions.ipynb)
 
 ### Phase 4: Object-Oriented Programming
+
 - [x] Classes and objects, `__init__`, `self`, `__str__`
 - [x] Class attributes vs instance attributes
 - [x] Composition
@@ -81,28 +85,33 @@ New to Git, `pip` or virtual environments? Read [`00_Developer_Tools_Guide.md`](
 📖 Notes: [`06_OOP_Part1_Classes_and_Objects`](Python_Course_Notes/06_OOP_Part1_Classes_and_Objects.ipynb) · [`07_OOP_Part2_Inheritance_and_Beyond`](Python_Course_Notes/07_OOP_Part2_Inheritance_and_Beyond.ipynb)
 
 ### Phase 5: Tools and the outside world
+
 - [x] Modules: your own files, `import`, `if __name__ == "__main__"`
 - [x] `pip`, virtual environments and `requirements.txt`
 - [x] APIs with `requests`
 - [ ] `datetime` (introduced inside a project)
-- [ ] `@dataclass` *(optional)*
+- [ ] `@dataclass` _(optional)_
 
-📖 Notes: [`08_APIs_with_requests`](Python_Course_Notes/08_APIs_with_requests.ipynb) · [`00_Developer_Tools_Guide.md`](00_Developer_Tools_Guide.md)
+📖 Notes: [`08_APIs_with_requests`](Python_Course_Notes/08_APIs_with_requests.ipynb) · [`00_Developer_Tools_Guide.md`](Python_Course_Notes/00_Developer_Tools_Guide.md)
 
 ### Phase 6: Desktop apps (GUI)
+
 - [ ] Tkinter core: windows, labels, buttons, `Entry`, `grid`, event handling
 - [ ] A Library GUI that reuses our existing classes
-- [ ] CustomTkinter *(optional bonus)*
+- [ ] CustomTkinter _(optional bonus)_
 
 ### Phase 7: Databases
+
 - [ ] `sqlite3`: tables, `INSERT`, `SELECT`, `UPDATE`, `DELETE`
 - [ ] Connecting a project to a database
 
 ### Phase 8: The web
+
 - [ ] HTML, CSS and JavaScript basics
 - [ ] FastAPI: building our own API
 
 ### Phase 9: Capstone and specialization
+
 - [ ] Capstone project
 - [ ] Specialization tracks, chosen by each student's interests
 
@@ -123,12 +132,12 @@ Workbooks live in `Projects/Project_Descriptions/`.
 
 Assignments live in `Assignments/Assignment_Descriptions/`.
 
-| Assignment | Topic |
-|---|---|
-| `Python_Assignment_1` | Variables, data types, input, operators, conditionals |
-| `Python_Assignment_2` | Loops and lists, plus a review of strings and modules |
-| `Python_Assignment_3` | Data structures: lists, tuples, dictionaries, sets |
-| `Python_Assignment_4` | `*args` / `**kwargs`, lambda, recursion, exceptions, file handling |
+| Assignment            | Topic                                                                               |
+| --------------------- | ----------------------------------------------------------------------------------- |
+| `Python_Assignment_1` | Variables, data types, input, operators, conditionals                               |
+| `Python_Assignment_2` | Loops and lists, plus a review of strings and modules                               |
+| `Python_Assignment_3` | Data structures: lists, tuples, dictionaries, sets                                  |
+| `Python_Assignment_4` | `*args` / `**kwargs`, lambda, recursion, exceptions, file handling                  |
 | `Python_Assignment_5` | OOP: classes, class vs instance attributes, composition, encapsulation, `@property` |
 | `Python_Assignment_6` | OOP: inheritance, polymorphism, `__eq__` / `__repr__`, `isinstance`, `@classmethod` |
 
