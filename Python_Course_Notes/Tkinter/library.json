@@ -1,0 +1,30 @@
+[
+    {
+        "type": "Book",
+        "title": "The Great Gatsby",
+        "extra": "F. Scott Fitzgerald",
+        "copies": 3,
+        "status": "Available"
+    },
+    {
+        "type": "Magazine",
+        "title": "National Geographic",
+        "extra": "2023-09",
+        "copies": 5,
+        "status": "Available"
+    },
+    {
+        "type": "DVD",
+        "title": "Inception",
+        "extra": 148,
+        "copies": 2,
+        "status": "Available"
+    },
+    {
+        "type": "Book",
+        "title": "Dune",
+        "extra": "Frank Herbert",
+        "copies": 2,
+        "status": "Available"
+    }
+]

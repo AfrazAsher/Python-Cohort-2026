@@ -6,8 +6,8 @@ def add_item():
     if text == "":
         return
     listbox.insert(tk.END, text)             # tk.END = add at the bottom
-    entry.delete(0, tk.END)
-    entry.focus()
+    #entry.delete(0, tk.END)
+    #entry.focus()
 
 def remove_item():
     selection = listbox.curselection()       # a tuple like (2,) -- empty if nothing is selected
