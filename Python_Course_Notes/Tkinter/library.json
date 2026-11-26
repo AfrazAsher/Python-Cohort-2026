@@ -3,7 +3,7 @@
         "type": "Book",
         "title": "The Great Gatsby",
         "extra": "F. Scott Fitzgerald",
-        "copies": 3,
+        "copies": 1,
         "status": "Available"
     },
     {
@@ -25,6 +25,20 @@
         "title": "Dune",
         "extra": "Frank Herbert",
         "copies": 2,
+        "status": "Available"
+    },
+    {
+        "type": "Book",
+        "title": "Harry Potter",
+        "extra": "JK",
+        "copies": 5,
+        "status": "Available"
+    },
+    {
+        "type": "DVD",
+        "title": "Dune",
+        "extra": 140,
+        "copies": 1,
         "status": "Available"
     }
 ]
